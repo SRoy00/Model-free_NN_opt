@@ -1,4 +1,4 @@
-# This is a public version of the in-development model
+### This is a public version of the in-development model
 
 # NN_optctrl
 
